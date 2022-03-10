@@ -1,6 +1,6 @@
 VERSION_PACKAGE=github.com/argoproj/applicationset/common
 VERSION?=$(shell cat VERSION)
-IMAGE_NAMESPACE?=argoproj
+IMAGE_NAMESPACE?=takumakume
 IMAGE_PLATFORMS?=linux/amd64
 IMAGE_NAME?=argocd-applicationset
 IMAGE_TAG?=latest
